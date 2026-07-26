@@ -12,7 +12,7 @@ keep_vars = true
       "binding": "KV",
       "id": "7f0211dda4a245ddb4ea45fdecf1af36",
       
-      // Optional: preview_id used when running `wrangler dev` for local dev
+     
       "preview_id": "<ID_OF_PREVIEW_KV_NAMESPACE_FOR_LOCAL_DEVELOPMENT>"
     }
   ]
